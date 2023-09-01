@@ -1,2 +1,4 @@
 # StoreManagement
 A temporary repository for the StoreManagement project in Java
+
+This project was one of my first projects using the language of Java. The purpose of this project was to create a management system for a fake store whose merchandise type was up to you. The merchandise type ended up being clothing. As an object-oriented programming system, every item possible has a speicific class. Using array lists and these classes, the management system keeps track of how much the shopper spends. They can see the static inventory, which automatically generates with random articles of clothing preloaded onto the software, and choose from there. Then, the inventory will lose this item and the total amount of money made will increase. This user also has the option to "sell" their items, thus removing money from the store and adding an item into the inventory. Buying and selling all takes place through the use of a rudimentary SKU system.
